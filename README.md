@@ -1,4 +1,4 @@
-This is a fork of VIrtualXP made by lrusso. This fork will include some new stuff to the emulator.
+This is a fork of lrusso's VIrtualXP. This fork will include some new stuff to the emulator.
 
 What's new:
 
